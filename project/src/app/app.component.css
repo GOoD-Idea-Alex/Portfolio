@@ -1,0 +1,10 @@
+section.banner{
+    background-image: url(../assets/dev3.jpg);
+    height: 100vh;
+    position: relative;
+    background-size: cover;
+    background-repeat: no repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
+}
